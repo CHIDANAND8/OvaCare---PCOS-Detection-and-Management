@@ -257,7 +257,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Chidanand M - [@ChidanandM*(https://github.com/CHIDANAND8)
+- Chidanand M - [@Chidanand M](https://github.com/CHIDANAND8)
 
 ## 🙏 Acknowledgments
 
