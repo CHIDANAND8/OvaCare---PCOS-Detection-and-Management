@@ -257,7 +257,7 @@ This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Akarsh Hegde - [@Akarshhegde99](https://github.com/Akarshhegde99)
+- Chidanand M - [@ChidanandM*(https://github.com/CHIDANAND8)
 
 ## 🙏 Acknowledgments
 
